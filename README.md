@@ -23,10 +23,10 @@
   <a href = "mailto:karloseasilva1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/karlos-alcanti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/karloscode1/karloscode1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  <!--
     https://github.com/alexandresanlim/Badges4-README.md-Profile#-social-
-    -->
+ -->
     
