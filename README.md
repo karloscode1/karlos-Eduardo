@@ -1,6 +1,6 @@
 <h2 align="center">Olá, Sou o Karlos Eduardo, seja bem vindo ao meu GitHub!</h2>
  <div>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.rocketseat.com.br/"><i>Rocketseat</i></a> e compartilho meu aprendizado no meu Twitter no <a href="https://twitter.com/karloscode1"></a><span> 👉🏽️</span>
+  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.rocketseat.com.br/"><i>Rocketseat</i></a> e ADS na <a href="https://www.impacta.edu.br/"><i>Faculdade Impacta</i></a>, compartilho meu aprendizado no meu Twitter no <a href="https://twitter.com/karloscode1"></a><span> 👉🏽️</span>
   <a align="rigth"  href="https://twitter.com/karloscode1" target="_blank">
     <img width="5%" align="center" valign="middle" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkarloscode1"_blank" />
   </a><br>
